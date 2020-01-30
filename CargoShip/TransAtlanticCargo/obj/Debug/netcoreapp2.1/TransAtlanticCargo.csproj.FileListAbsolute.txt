@@ -1,0 +1,10 @@
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\bin\Debug\netcoreapp2.1\TransAtlanticCargo.deps.json
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\bin\Debug\netcoreapp2.1\TransAtlanticCargo.runtimeconfig.json
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\bin\Debug\netcoreapp2.1\TransAtlanticCargo.runtimeconfig.dev.json
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\bin\Debug\netcoreapp2.1\TransAtlanticCargo.dll
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\bin\Debug\netcoreapp2.1\TransAtlanticCargo.pdb
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\obj\Debug\netcoreapp2.1\TransAtlanticCargo.csprojAssemblyReference.cache
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\obj\Debug\netcoreapp2.1\TransAtlanticCargo.AssemblyInfoInputs.cache
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\obj\Debug\netcoreapp2.1\TransAtlanticCargo.AssemblyInfo.cs
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\obj\Debug\netcoreapp2.1\TransAtlanticCargo.dll
+D:\PRG\pslib-cz\CargoShip\TransAtlanticCargo\obj\Debug\netcoreapp2.1\TransAtlanticCargo.pdb
